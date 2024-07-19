@@ -1,0 +1,23 @@
+{
+  "name": "buttons-giveaway",
+  "version": "0.1.0",
+  "description": "Giveaway bot with discord-buttons",
+  "main": "index.js",
+  "keywords": [
+    "buttons",
+    "giveaway"
+  ],
+  "author": "zMelihStrqfe",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "config.json": "0.0.4",
+    "croxydb": "0.0.7",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3"
+  }
+}
